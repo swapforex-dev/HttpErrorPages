@@ -1,3 +1,10 @@
+# How to run
+````
+npm run gulp && npm run dist
+````
+upload to home/ubuntu/error-pages
+run ./copy-pages script
+
 [nginx](#nginx-integration) | 
 [Apache HTTPD](#apache-httpd-integration) | 
 [Lighttpd](#lighttpd-integration) | 
